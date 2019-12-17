@@ -19,4 +19,5 @@ export default class App extends Component {
       </Provider>
     );
   }
+  // react component router içerisinden cagrılır
 }
